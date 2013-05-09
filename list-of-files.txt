@@ -7,10 +7,11 @@ drwx------    3 mcampbell  LC\Domain Users    102 May  9 11:04 .FileSync/
 drwx------   91 mcampbell  LC\Domain Users   3094 May  8 19:00 .Trash/
 -r--------    1 mcampbell  admin            18879 Apr 25 10:01 .account
 -rwx------    1 mcampbell  LC\Domain Users    433 May  5 13:10 .aliases*
-drwxr-xr-x    3 mcampbell  LC\Domain Users    102 May  7 16:29 .astah/
 -rw-------    1 mcampbell  LC\Domain Users  11236 May  9 07:41 .bash_history
 -rw-r--r--    1 mcampbell  LC\Domain Users    216 Apr 26 14:47 .bash_profile
--rwx------    1 mcampbell  LC\Domain Users    529 May  1 14:40 .bashrc*
+
+-rwx------    1 mcampbell  LC\Domain Users    529 May  1 14:40 .bashrc*    <--- this is the one
+
 drwxr-xr-x    3 mcampbell  LC\Domain Users    102 May  6 12:25 .cache/
 drwxr-xr-x    4 mcampbell  LC\Domain Users    136 May  7 15:49 .config/
 drwx------    3 mcampbell  LC\Domain Users    102 Apr 24 15:29 .cups/

@@ -1,5 +1,5 @@
 // Foo
 
 (function() {
-   var x = 1
+   var x = 1, y = 2
 })
